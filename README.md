@@ -1,7 +1,7 @@
 # VBA-Challenge
 Using VBA Scripting to analyze real stock market data
 
-* I createe a script that loops through all the stocks for one year and outputs the following information.
+* I created a script that loops through all the stocks for one year and outputs the following information.
 
   * The ticker symbol.
 
